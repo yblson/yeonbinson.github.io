@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "For my young life"  # "Site Title"
+title                    : "Homepage - Yeonbin Son"  # "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yeonbin Son"
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Yeonbin Son"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Seoul, Republic of Korea"
+  bio              : "Ph.D. in Industrial and Management Engineering, Kyonggi University."
+  location         : "Siheung, Republic of Korea"
   email            : # "yeonbin517@gmail.com"
   links:
     - label: "Email"
