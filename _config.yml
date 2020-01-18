@@ -131,7 +131,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/yeonbinson"
+      # url: "https://instagram.com/yeonbinson"
 
 # Site Footer
 footer:
