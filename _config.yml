@@ -108,8 +108,8 @@ analytics:
 # Site Author
 author:
   name             : "Yeonbin Son"
-  avatar           : "/assets/images/logo.HEIC" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. in Industrial and Management Engineering, Kyonggi University."
+  avatar           : "/assets/images/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Ph.D. in Industrial and Management Engineering, Kyonggi University"
   location         : "Siheung, Republic of Korea"
   email            : # "yeonbin517@gmail.com"
   links:
