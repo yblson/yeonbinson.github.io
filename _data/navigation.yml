@@ -1,0 +1,6 @@
+# main links
+main:
+  - title: "Home" # Text which represents at the menu bar
+    url: https://yeonbinson.github.io/ # url to link
+  - title: "About"
+    url: /about/
