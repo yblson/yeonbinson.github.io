@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Home" # Text which represents at the menu bar
-    url: https://yeonbinson.github.io/ # url to link
-  - title: "Research Projects"
-    url: /research-projects/
+  - title: "Research Projects" # Text which represents at the menu bar
+    url: /research-projects/ # url to link
   - title: "Publications"
     url: /publications/
   - title: "Academics"
