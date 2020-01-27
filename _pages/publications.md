@@ -4,4 +4,4 @@ permalink: /publications/
 layout: single
 ---
 
-{% include_relative _posts/import-publications.md %}
+{% include import-publications.md %}
