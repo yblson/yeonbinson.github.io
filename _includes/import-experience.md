@@ -8,7 +8,7 @@
 
 - Lecturer, Ministry of Science and ICT, ROK
 -- Basic Mathematics for Data Analysis (Summer, 2019)
---- Teaching Linear Algebra to Undergraduate Students
+--- Involved in teaching Linear Algebra to undergraduate students
 
 ## Awards and grants
 
