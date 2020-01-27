@@ -1,4 +1,4 @@
-> International conferences
+## International conferences
 
 ### Improving Journal Recommender Systems with Dynamic Weighting Methods
 Yeonbin Son, Suyeon Kim, and Yerim Choi  
@@ -25,7 +25,7 @@ _International Symposium on Innovation in Information Technology Application, Ko
 ***    
 
 
-> Domestic conferences
+## Domestic conferences
 
 ### A Dynamic Weighting Based Journal Recommendation Method Considering Researchers' Submission Record
 Yeonbin Son, Suyeon Kim, Younghoon Roh, and Yerim Choi  
