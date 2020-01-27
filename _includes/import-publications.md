@@ -1,4 +1,9 @@
-### Y. Son, Y. Choi*, “EditorRank: A Pseudo-network Based Editor Recommendation”, in preparation (SSCI). [WIP]   
+### EditorRank: A Pseudo-network Based Editor Recommendation”, in preparation (SSCI). [WIP]
+#### Yeonbin Son, Yerim Choi
+#### In preparation(SSCI).
+
+
+
 ### Y. Son, Y. Choi*, “Editing Expert Recommendation Using Matrix Factorization”, in preparation for Telematics and Infomatics (SCI). [WIP]   
 Y. Son, T.W. Chang, and Y. Choi*, “Dessert ateliers recommendation methods for dessert e-commerce services”, Journal of Internet Computing and Services (KCI), (2019). [Accept]
 Y. Son, T.W. Chang, and Y. Choi*, “Development of Journal Recommendation Method Considering Importance of Decision Factors Based on Researchers' Paper Publication History”, Journal of Internet Computing and Services (KCI), Vol. 20, No. 4, pp. 73-79 (2019).
