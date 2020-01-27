@@ -1,10 +1,21 @@
 ### EditorRank: A Pseudo-network Based Editor Recommendation
 Yeonbin Son, Yerim Choi  
-In preparation(SSCI).
+In preparation (SSCI)
 
+***
 
+### Editing Expert Recommendation Using Matrix Factorization
+Yeonbin Son, Yerim Choi  
+In preparation for Telematics and Infomatics (SCI)
 
-### Y. Son, Y. Choi*, “Editing Expert Recommendation Using Matrix Factorization”, in preparation for Telematics and Infomatics (SCI). [WIP]   
+***
+
+### Dessert Ateliers Recommendation Methods for Dessert E-commerce Services
+Yeonbin Son, Tai-Woo Chang, and Yerim Choi  
+_Journal of Internet Computing and Services (KCI), 2019_
+
+***
+
 Y. Son, T.W. Chang, and Y. Choi*, “Dessert ateliers recommendation methods for dessert e-commerce services”, Journal of Internet Computing and Services (KCI), (2019). [Accept]
 Y. Son, T.W. Chang, and Y. Choi*, “Development of Journal Recommendation Method Considering Importance of Decision Factors Based on Researchers' Paper Publication History”, Journal of Internet Computing and Services (KCI), Vol. 20, No. 4, pp. 73-79 (2019).
 Y. Son, H. An, and Y. Choi*, A Proofreader Matching Method Based on Topic Modeling Using the Importance of Documents", Journal of Internet Computing and Services (KCI), Vol. 19, No. 4, pp. 27-33 (2018).
