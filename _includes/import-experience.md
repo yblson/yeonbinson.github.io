@@ -1,5 +1,3 @@
-## Work experience
-
 ## Teaching
 - Undergraduate Teaching Assistant, Industrial and Management Engineering Dept., Kyonggi University, ROK
   * Programming and Application, Prof. Yerim Choi (Fall, 2018 / 1462, 1977)
@@ -17,5 +15,3 @@
 - Master Student Fully Funded Scholarship, Kyonggi University, ROK (Mar. 2018 ~ Feb. 2020)
 - 2016 Startup Internship Commercialization, Korea Institute of Startup and Entrepreneurship Development, ROK (Oct. 2017 ~ Sep. 2018)
   * Benefit from Government Support Project ($100,000)
-
-## Patent
