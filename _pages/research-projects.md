@@ -4,4 +4,4 @@ permalink: /research-projects/
 layout: single
 ---
 
-Research projects
+{% include import-research-projects.md %}

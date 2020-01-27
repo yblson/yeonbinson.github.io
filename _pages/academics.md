@@ -4,4 +4,4 @@ permalink: /academics/
 layout: single
 ---
 
-**Awards/Achievements**
+{% include import-academics.md %}

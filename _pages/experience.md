@@ -4,6 +4,4 @@ permalink: /experience/
 layout: single
 ---
 
-Work experience
-Teaching
-Social Initiative
+{% include import-experience.md %}
