@@ -1,6 +1,6 @@
 ### EditorRank: A Pseudo-network Based Editor Recommendation”, in preparation (SSCI). [WIP]
-#### Yeonbin Son, Yerim Choi
-#### In preparation(SSCI).
+Yeonbin Son, Yerim Choi
+In preparation(SSCI).
 
 
 
