@@ -6,7 +6,5 @@ main:
     url: /conferences/
   - title: "Research Projects" # Text which represents at the menu bar
     url: /research-projects/ # url to link
-  - title: "Academics"
-    url: /academics/
   - title: "Experience"
     url: /experience/
