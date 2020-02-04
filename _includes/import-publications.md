@@ -1,3 +1,9 @@
+### MF with Sentiment Analysis
+***Yeonbin Son***, Yerim Choi  
+In preparation (SSCI)
+
+***
+
 ### EditorRank: A Pseudo-network Based Editor Recommendation
 ***Yeonbin Son***, Yerim Choi  
 In preparation (SSCI)
